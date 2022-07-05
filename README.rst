@@ -245,6 +245,7 @@ Geo-localization datasets
 Video-reid datasets
 ^^^^^^^^^^^^^^^^^^^^^^^
 - `MARS <http://www.liangzheng.org/1320.pdf>`_
+- `Liang Zeng WebSite <http://zheng-lab.cecs.anu.edu.au/>`_
 - `iLIDS-VID <https://www.eecs.qmul.ac.uk/~sgg/papers/WangEtAl_ECCV14.pdf>`_
 - `PRID2011 <https://pdfs.semanticscholar.org/4c1b/f0592be3e535faf256c95e27982db9b3d3d3.pdf>`_
 - `DukeMTMC-VideoReID <http://openaccess.thecvf.com/content_cvpr_2018/papers/Wu_Exploit_the_Unknown_CVPR_2018_paper.pdf>`_
